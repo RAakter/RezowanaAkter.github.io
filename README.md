@@ -1,2 +1,2 @@
-# RezowanaAkter.github.io
+# rezowanaakter.github.io
 My Portfolio
